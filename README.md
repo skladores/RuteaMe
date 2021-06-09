@@ -7,5 +7,5 @@ comprueba la presencia de ciertos ficheros, un directorio para los
 tests, y otro para la documentación.
 
 # Integrantes
-Julio César Anchiraico Trujillo
-Diana Marisel Flores Saavedra
+| Julio César Anchiraico Trujillo | juliocat@outlook.com |
+| Diana Marisel Flores Saavedra | diafs07@gmail.com |
